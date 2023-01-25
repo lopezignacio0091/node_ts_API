@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "date": "2022-01-01",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "Property sarasa sasdas dsds"
+    },
+    {
+        "id": 2,
+        "date": "2022-01-01",
+        "weather": "example",
+        "visibility": "poor",
+        "comment": "Property sarasa sasdas dsds"
+    },
+    {
+        "id": 3,
+        "date": "2022-01-01",
+        "weather": "sadasd",
+        "visibility": "poor",
+        "comment": "Property sarasa sasdas dsds"
+    }
+]
